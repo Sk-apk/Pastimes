@@ -1,0 +1,75 @@
+body.dashboard-body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 60px auto;
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.role-tag {
+    font-size: 16px;
+    color: #666;
+}
+
+.dashboard-subtitle {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+ul.action-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.action-list li {
+    margin-bottom: 12px;
+}
+
+ul.action-list a {
+    text-decoration: none;
+    color: #0056b3;
+    font-weight: 500;
+}
+
+ul.action-list a:hover {
+    text-decoration: underline;
+    color: #003d80;
+}
+
+.logout-container {
+    margin-top: 30px;
+    text-align: right;
+}
+
+.logout-button {
+    background-color: #e53935;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logout-button:hover {
+    background-color: #c62828;
+}

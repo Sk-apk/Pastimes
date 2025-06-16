@@ -1,0 +1,5 @@
+Alice : Smith : alice.smith@email.com : Alice@123
+Bob : Johnson : bob.johnson@another.net : Bob@456
+Charlie : Brown : charlie.brown@someplace.org : Charlie@789
+Diana : Lee : diana.lee@whereever.co.za : Diana@101
+Ethan : Williams : ethan.william@domain.info : Ethan@102
