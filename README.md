@@ -104,11 +104,6 @@ The database stores information across the following entities:
 
 ---
 
-## Getting Started
-
-> Setup instructions will be added as the project moves into active development.
-
----
 
 ## License
 
