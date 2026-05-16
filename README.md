@@ -69,7 +69,7 @@ The database stores information across the following entities:
 | ST10127853 | Tshepo Motloung |
 | ST10151780 | Siphumezo Mvuli |
 
-**Module:** WEDE6021 — POE Part 1
+**Module:** WEDE6021 — POE
 
 ---
 
